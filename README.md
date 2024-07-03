@@ -15,6 +15,10 @@ You will be presented with a menu to choose different actions:
 - Available Tickets
 - Booked Tickets
 - Exit
+
+------------
+
+
 **Classes and Methods**
 RailwayTicketManagementSys
 **bookticket(passenger p):** Handles the logic for booking a ticket based on berth preferences and availability.
